@@ -1,0 +1,1 @@
+this dock does not have electronics in it since it is still a work in progress. Please mostly ignore this folder until it is completed. It contains the docking station 3d model.
