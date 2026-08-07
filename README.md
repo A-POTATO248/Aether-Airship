@@ -7,5 +7,5 @@ Aether is an recon and delivery airship built to be remote controlled by a human
 
 Aether is assembled simple using some superglue and twine, with the knowledge of safety it should be easy to asseble. All the hardware except the motors go inside the gondola, the motors go respectively on the motor mounts. Remote is not completed so no instructions for that.
 
-# Image of Cad(kinda assembled)
+# Image of Cad
 <img width="866" height="537" alt="image" src="https://github.com/user-attachments/assets/1123f134-5a74-4a42-b723-db88643c630c" />
